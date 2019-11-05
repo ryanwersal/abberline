@@ -1,0 +1,19 @@
+{
+  "name": "abberline",
+  "version": "1.0.0",
+  "description": "Abberline helps investigate code to find unexpected coupling and other metrics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanwersal/abberline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanwersal/abberline/issues"
+  },
+  "homepage": "https://github.com/ryanwersal/abberline#readme"
+}
